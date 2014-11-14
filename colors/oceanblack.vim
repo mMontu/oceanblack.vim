@@ -109,6 +109,10 @@ highlight Error      guifg=LightYellow  guibg=FireBrick
 
 highlight Todo          guifg=Cyan guibg=#507080
 
+" Copied from desertEx.vim
+hi Pmenu        guifg=white          guibg=#445599  gui=none
+hi PmenuSel     guifg=#445599        guibg=gray
+
 """ OLD COLORS
 
 
